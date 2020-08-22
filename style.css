@@ -19,6 +19,13 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.buy-now-button:hover{
+    background-image: none;
+    background-color: #fd911d;
+    color: white;
+    border: 1px solid #422301;
+    
+}
 .cat1, .cat2, .cat3{
     padding: 10px 30px;
     border-radius: 10px;
