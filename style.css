@@ -21,8 +21,8 @@
 }
 .buy-now-button:hover{
     background-image: none;
-    background-color: #fd911d;
-    color: white;
+    background-color: silver;
+    color: black;
     border: 1px solid #422301;
     
 }
